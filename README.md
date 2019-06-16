@@ -10,5 +10,5 @@
 
 ##### Links:
  - [My website](http://titaniumhocker.ru/)
- - [vk.com](https://vk.com/titanium_hocker/)
+ - [vk.com](https://vk.com/titanium_hocker)
 
