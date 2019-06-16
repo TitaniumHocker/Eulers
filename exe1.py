@@ -1,5 +1,4 @@
+#!/bin/python3
 # -*- coding:utf-8 -*-
 
-arr = [x for x in range(1000) if x % 3 == 0 or x % 5 == 0]
-print(arr)
-print(sum(arr))
+print(sum([i for i in range(1000) if i % 5 == 0 or i % 3 == 0]))
