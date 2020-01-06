@@ -5,10 +5,6 @@
  - problem 4
  - problem 6
 
-### CPP solved problems:
+### C/C++ solved problems:
  - problem 1
-
-##### Links:
- - [My website](http://titaniumhocker.ru/)
- - [vk.com](https://vk.com/titanium_hocker)
 
