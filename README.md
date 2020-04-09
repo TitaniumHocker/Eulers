@@ -1,10 +1,11 @@
 # Euler Project solutions by TitaniumHocker
-
-### Python 3 solved problems:
+---
+### C solved problems:
  - problem 1
+ - problem 2
+ - problem 3
  - problem 4
+ - problem 5
  - problem 6
-
-### C/C++ solved problems:
- - problem 1
+ - problem 7
 
